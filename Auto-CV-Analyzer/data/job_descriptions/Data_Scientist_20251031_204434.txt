@@ -1,0 +1,2 @@
+Data Scientist
+Python, Numpy, Pandas, Machine Learning
